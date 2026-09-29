@@ -1,0 +1,164 @@
+﻿[
+    {
+        "file":  "before-after\\ai-base-hero.png",
+        "width":  1600,
+        "height":  900,
+        "bytes":  2061557
+    },
+    {
+        "file":  "before-after\\fluxdock-ai-base-vs-human-layout.png",
+        "width":  2000,
+        "height":  1000,
+        "bytes":  2143030
+    },
+    {
+        "file":  "before-after\\human-layout-hero.png",
+        "width":  1600,
+        "height":  900,
+        "bytes":  1890813
+    },
+    {
+        "file":  "detail-page\\fluxdock-ecommerce-detail-long.png",
+        "width":  1440,
+        "height":  7200,
+        "bytes":  6210554
+    },
+    {
+        "file":  "ecommerce\\fluxdock-commerce-main-01.png",
+        "width":  2000,
+        "height":  2000,
+        "bytes":  3999017
+    },
+    {
+        "file":  "ecommerce\\fluxdock-commerce-main-02.png",
+        "width":  2000,
+        "height":  2000,
+        "bytes":  3686487
+    },
+    {
+        "file":  "hero\\fluxdock-hero-16x9.png",
+        "width":  1920,
+        "height":  1080,
+        "bytes":  2555766
+    },
+    {
+        "file":  "hero\\fluxdock-short-video-cover-9x16.png",
+        "width":  1080,
+        "height":  1920,
+        "bytes":  2322341
+    },
+    {
+        "file":  "product-master\\fluxdock-angle-45.png",
+        "width":  1200,
+        "height":  1200,
+        "bytes":  1186053
+    },
+    {
+        "file":  "product-master\\fluxdock-back.png",
+        "width":  1200,
+        "height":  1200,
+        "bytes":  1113664
+    },
+    {
+        "file":  "product-master\\fluxdock-front.png",
+        "width":  1200,
+        "height":  1200,
+        "bytes":  1196096
+    },
+    {
+        "file":  "product-master\\fluxdock-interface-usb-c.png",
+        "width":  1200,
+        "height":  1200,
+        "bytes":  738976
+    },
+    {
+        "file":  "product-master\\fluxdock-product-master-sheet.png",
+        "width":  1536,
+        "height":  1024,
+        "bytes":  2023210
+    },
+    {
+        "file":  "product-master\\fluxdock-side.png",
+        "width":  1200,
+        "height":  1200,
+        "bytes":  786479
+    },
+    {
+        "file":  "product-master\\fluxdock-use-state.png",
+        "width":  1200,
+        "height":  1200,
+        "bytes":  966724
+    },
+    {
+        "file":  "scenes\\fluxdock-commute-scene.png",
+        "width":  1600,
+        "height":  2000,
+        "bytes":  4102589
+    },
+    {
+        "file":  "scenes\\fluxdock-desktop-scene.png",
+        "width":  1600,
+        "height":  2000,
+        "bytes":  3882873
+    },
+    {
+        "file":  "scenes\\fluxdock-gaming-scene.png",
+        "width":  1600,
+        "height":  2000,
+        "bytes":  3680254
+    },
+    {
+        "file":  "social\\fluxdock-social-desk-4x5.png",
+        "width":  1600,
+        "height":  2000,
+        "bytes":  2646853
+    },
+    {
+        "file":  "social\\fluxdock-social-game-4x5.png",
+        "width":  1600,
+        "height":  2000,
+        "bytes":  3153556
+    },
+    {
+        "file":  "video\\01-hook.png",
+        "width":  1080,
+        "height":  1920,
+        "bytes":  2476124
+    },
+    {
+        "file":  "video\\02-magnetic-fit.png",
+        "width":  1080,
+        "height":  1920,
+        "bytes":  2218262
+    },
+    {
+        "file":  "video\\03-gaming.png",
+        "width":  1080,
+        "height":  1920,
+        "bytes":  2405156
+    },
+    {
+        "file":  "video\\04-commute.png",
+        "width":  1080,
+        "height":  1920,
+        "bytes":  2708222
+    },
+    {
+        "file":  "video\\05-desk.png",
+        "width":  1080,
+        "height":  1920,
+        "bytes":  2571104
+    },
+    {
+        "file":  "video\\06-hero.png",
+        "width":  1080,
+        "height":  1920,
+        "bytes":  2216939
+    },
+    {
+        "file":  "video\\07-endcard.png",
+        "width":  1080,
+        "height":  1920,
+        "bytes":  2478089
+    }
+]
